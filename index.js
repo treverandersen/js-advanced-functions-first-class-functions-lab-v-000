@@ -21,3 +21,9 @@ function createFareMultiplier(int) {
 const fareDoubler = function (int) {
   return int + int
 };
+
+const fareTripler = function (int) {
+  return int + int + int
+};
+
+

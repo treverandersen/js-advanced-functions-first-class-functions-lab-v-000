@@ -1,2 +1,4 @@
 // Code your solution in this file!
-const = (function (arr) {return arr[0] arr[1]})
+const firstTwo = (function (arr) {
+  arr.slice(0, 2).join( )
+});

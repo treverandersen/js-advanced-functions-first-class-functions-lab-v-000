@@ -23,7 +23,5 @@ const fareDoubler = function (int) {
 };
 
 const fareTripler = function (int) {
-  return int + int + int
+  return int * 3
 };
-
-

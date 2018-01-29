@@ -5,8 +5,6 @@ function returnFirstTwoDrivers(arr) {
   };
   return firstTwo(arr);
 
-  const firstTwo = function () {
-    returnFirstTwoDrivers = 'testing reassignment';
-  };
+  
 
 };
